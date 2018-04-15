@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Blog Post (Test)
+title: First Blog Post
 ---
 # Hello World
 
