@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-# If you really want to know...!
-### More Information
+# Get to know me
 
 Once I get this Jekyll, I'll update this with relevant information.
 ### Contact me
